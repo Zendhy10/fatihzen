@@ -1,0 +1,17 @@
+
+
+.kaset-dvd {
+  background-color: #888;
+}
+
+.ul-navbar {
+  background-color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+.li-navbar{
+  border: 1px solid red;
+  list-style-type: none;
+}
+
